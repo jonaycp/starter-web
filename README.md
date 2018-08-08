@@ -6,6 +6,16 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Seccion nueva
+## Pruebas
 
-Seccion sin definir
+- Todas las pruebas aqui
+- Tonterias tambie
+
+## Conclusiones
+
+- Sólo se que no se nada
+
+## Bibliografía
+
+- Wikipedia
+
