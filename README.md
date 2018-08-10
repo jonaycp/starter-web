@@ -19,3 +19,6 @@ Sample website with plenty of files for demos
 
 - Wikipedia
 
+## Copyrigh	
+
+- Basurilla de info de copyright
