@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Jonay 	jonaycp@jonay.com	@jonaycp
     <name> -- <role> -- <twitter>
 
 # THANKS
