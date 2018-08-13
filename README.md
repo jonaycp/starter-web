@@ -22,3 +22,7 @@ Sample website with plenty of files for demos
 ## Copyrigh	
 
 - Basurilla de info de copyright
+
+## How To Contribute
+
+Pleas fork this repositary and then issue Pull Requests for review
