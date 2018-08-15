@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding a line for rebasing example again
-Cositas nuevas
+Vamos a contar mentiras
 
 ## Purpose
 
