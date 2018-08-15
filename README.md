@@ -22,7 +22,7 @@ Sample website with plenty of files for demos
 
 ## Copyrigh	
 
-- Basurilla de info de copyright
+- Basurilla de info de copyright. all rights reserved
 
 ## How To Contribute
 
